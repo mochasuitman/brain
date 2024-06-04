@@ -1,0 +1,1 @@
+- In programming language it is the variable passed inside a function when a function is called

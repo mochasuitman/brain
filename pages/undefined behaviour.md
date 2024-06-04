@@ -1,0 +1,1 @@
+- It is the result of executing code whose behaviours are not well defined in the program. The code may compile but it may not work as expected

@@ -1,0 +1,3 @@
+- The natural [[alarm]] of our brain
+- He wakes up when the [[instant gratification monkey]] is in charge and a deadline is coming
+- He scares the [[instant gratification monkey]] leaving the control to the [[rational decision maker]]

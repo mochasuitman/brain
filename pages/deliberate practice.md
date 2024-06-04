@@ -1,0 +1,2 @@
+- Stretching your [[abilities]] beyond where you're [[comfortable]] and then receive ruthless [[feedback]] on your performance
+- It is the best process to get [[career capital]]

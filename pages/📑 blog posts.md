@@ -1,0 +1,6 @@
+filters:: {"🏡 welcome" false}
+
+- {{query (page-property :type "blog post") )}}
+  query-table:: true
+  query-sort-desc:: false
+  query-properties:: [:title :blog :status :topics :language :link]

@@ -1,0 +1,1 @@
+- A container in [[software development]] means an isolated, protected and portable package which contains the application, the [[dependencies]], config files, system tools and runtime

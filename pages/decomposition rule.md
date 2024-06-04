@@ -1,0 +1,2 @@
+- When referred to [[data structure]] it means the set of rules that determine how an object gets decomposed in smaller objects of the same type.
+- The smallest possible objects is called [[basis case]]

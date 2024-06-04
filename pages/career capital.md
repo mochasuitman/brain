@@ -1,0 +1,1 @@
+- The rare and valuable skills to offer in return to rare and valuable traits that defines a good job

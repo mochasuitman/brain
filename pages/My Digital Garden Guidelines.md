@@ -1,0 +1,22 @@
+filters:: {"🏡 welcome" false}
+
+- In this document I will explain the basic structure of my [[digital garden]]
+-
+- ## The Structure
+	- I decided to adopt the following catagories to manage my digital life
+		- ### Resources
+			- This category contains every piece of long-term knowledge (e.g. book notes, blog posts notes, etc...)
+			-
+		- ### Personal
+			- This category contains things related to the personal sphere (e.g. personal thoughts about anything)
+			-
+		- ### Templates
+			- This category was created solely to fulfill a technical need
+			- In this category I manage every template used inside of the [[digital garden]]
+			- Templates are used to standardize data and facilitate posthumous aggregation and query
+			-
+- ## Why a [[digital garden]]?
+	- Early on in my life I understood that I needed a place to store and link in a persistent way my current and future [[knowledge]]
+	- Being born in 2004 means being constantly exposed to a continuos [[stream]] of content, which for the 90% is pure [[noise]] and [[distraction]]. The sad thing is that before having a [[digital garden]] I lost in the noise even the good quality content. I had to absolutely find a way to drain that lost of [[knowledge]]
+	- I also liked the idea to make my [[knowledge]] persistent and forever available
+	-

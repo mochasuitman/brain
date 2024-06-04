@@ -1,0 +1,1 @@
+- In programming languages, a variable is a named object living in [[RAM]]

@@ -1,0 +1,1 @@
+- An identifier (variable name, function name, class name, etc...) is *out of scope* when it cannot be accessed in the desired piece of code

@@ -1,0 +1,3 @@
+- It is a YouTube channel located at this [link](https://www.youtube.com/@TheCherno)
+- The owner worked for [[Electronic Arts]]
+- He works now on his own game engine called [[Hazel Engine]]

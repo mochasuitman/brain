@@ -1,0 +1,18 @@
+type:: [[blog post]]
+title:: The Garden and the Stream: A Technopastoral
+blog:: [[Hapgood]] 
+topics:: #[[digital garden]] #stream #[[social media]]
+status:: #[[🌿 to plant]] 
+language:: [[🇬🇧 ENG]]
+link:: [link](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
+
+-
+- ## Introduction
+	- The author describes how much his thinking methodology changed since he created a [[digital garden]] to manage his [[knowledge]]
+	- He criticies the [[stream]] of contents provided by [[social media]]
+	- He states that [[social media]] is an impoverished model for learning
+	- [[social media]] content is not thought to be [[persistent]]
+	- You should plant content inside your [[digital garden]] if you want it to be [[persistent]] and useful
+	- *"As humans we should get past the sweet, salty fat of the web and opt for something more timeless, less assertive and more persistent"*
+	-
+-

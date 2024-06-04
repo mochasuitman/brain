@@ -1,0 +1,5 @@
+- Nell'ambito degli [[Insiemi]] viene usato per indicare l'intersezione di $$n$$ insiemi
+- $$A \cap B$$
+- L'intersezione gode della [[proprietà commutativa]] [[proprietà associativa]] e [[proprietà distributiva]]
+- Graficamente si presenta in questo modo:
+- ![intersezione_insiemi.png](../assets/intersezione_insiemi_1696186076677_0.png)

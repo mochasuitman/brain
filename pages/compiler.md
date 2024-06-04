@@ -1,0 +1,1 @@
+- It is a program that takes human-readable source code, written in a [[programming language]], and produces a computer-readable file written in [[binary code]]

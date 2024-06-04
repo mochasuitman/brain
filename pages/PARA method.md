@@ -1,0 +1,23 @@
+filters:: {"🏡 welcome" false}
+
+- It is a way to organize your digital life
+- It was originally developed by [[Tiago Forte]]
+-
+- ## How it works
+	- This method suggest to split out your life in four top-level categories.
+	- Every information that you want to store in your [[digital garden]] should fall in one of those four categories
+	- The material that falls in those categories is not frozen in time and space, can mutate, change position, be revisioned and be linked to other material
+		- ### Projects
+			- Contains short-term efforts in your work or life that you are working on now
+			- Populate this with [[goal]] to be achieved in a [[deadline]]
+		-
+		- ### Areas
+			- Contains long-term responsibilities you want to manage over time
+			-
+		- ### Resources
+			- Contains the material related to [[topics]] and themes of ongoing interest
+			-
+		- ### Archives
+			- Contains inactive items from the 3 categories above
+			-
+-

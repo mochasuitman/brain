@@ -1,0 +1,6 @@
+type::  [[book]]
+cover:: ![leggere-per-sapere-cover.png](../assets/leggere-per-sapere-cover_1681991425929_0.png) 
+title:: Leggere per sapere
+author:: [[Alessandro de Concini]]
+topics:: #learning #[[personal growth]] 
+status:: #[[🌿 to plant]]

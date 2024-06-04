@@ -1,0 +1,8 @@
+- This law states that for a [[project]] to transform a [[mission]] into a success it should be remarkable in 2 ways:
+	- #### First:
+		- It must literally compel people to remark and talk about it
+		- A project can be exposed to conducive and interested people but still fail because it is not enough compelling and shocking
+	- #### Second:
+		- It must be launched in a venue conducive to such remarking
+		- For example the [[open source]] community
+		- A project can be compelling but still fail because the people that are exposed to the project are not enough conducive and interested

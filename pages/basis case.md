@@ -1,0 +1,3 @@
+- When referred to [[data structure]] it namely means the specification of the smallest and simples objects where [[decomposition rule]] stops.
+- (e.g. for a string, the basis case is "" (empty string))
+- (e.g. for a tree, the basis case is a single vertex)

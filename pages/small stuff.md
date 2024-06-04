@@ -1,0 +1,2 @@
+- This is the kind of work that has zero chance of being mentioned on your obituary
+- Usually small stuff means [[errands]]

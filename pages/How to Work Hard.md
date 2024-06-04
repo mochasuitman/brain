@@ -1,0 +1,37 @@
+type:: [[blog post]]
+title:: How to Work Hard
+blog:: [[Paul Graham]] 
+topics:: #[[career development]] #[[personal growth]] #[[real work]] 
+status:: #[[🪴 planted]]
+language:: [[🇬🇧 ENG]]
+link:: [link](http://www.paulgraham.com/hwh.html)
+
+-
+- ## Introduction
+	- This is the kind of work needed in order to accomplish [[big stuff]]
+	- Brilliant people accomplish [[big stuff]] because of their [[talent]] and [[hard work]]
+	- [[talent]] is not something that you choose, so you should focus on improving the [[hard work]]
+	-
+- ## Tips
+	- Have clearly defined and externally imposed [[goal]]
+	- Be able to be [[productive]] even when the work is not imposed
+	- Avoid [[procrastination]], it is like lying to yourself
+	- Don't fall in [[distraction]]
+	- Do not give up when things go wrong and the [[problem]] become [[terrifying]]
+	-
+- The feeling of [[achievement]] and [[satisfaction]] when succeding in doing [[real work]] mutates in [[disgust]] when not achieving nothing
+-
+- ## [[time]] limits
+	- There is a point where the [[quality]] of [[hard work]] will decrease
+	- You have to learn how many hours you should be working
+	- Cultivate a sensitivity to the [[quality]] of the work you are doing. Then notice when it decreases
+	- The [[quality]] will decrease because you are exaggerating with [[hard work]]
+	- The [[quality]] will decrease  beacuse you are falling in [[procrastination]]
+	-
+- ## Work Hard with hard [[problem]]
+	- You need [[effort]] in order to solve hard [[problem]]
+	- A lot of [[problem]] have a hard [[core]] surrounded with simpler tasks at the edges
+	- [[hard work]] means to focus on solving the hard [[core]] of the [[problem]] without stalling
+	- The biggest [[achievement]] is accomplished by the ones who find an [[easy]] way of solving hard [[problem]]
+	-
+- A really small amount of successfull people are driven by a [[calling]], the majority follow the [[career capital]] hypotesis. They build up [[skills]]

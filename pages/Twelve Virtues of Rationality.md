@@ -1,0 +1,66 @@
+type:: [[blog post]]
+title:: Twelve Virtues of Rationality
+blog:: [[LessWrong]] 
+topics:: #rationality #virtues
+status:: #[[🪴 planted]] 
+language:: [[🇬🇧 ENG]]
+link:: [link](https://www.lesswrong.com/)
+
+-
+- ### [[curiosity]]
+	- Feeling curious is about admitting your [[ignorance]] and desire to relinquish it
+	- It's about aspiring for more [[knowledge]]
+	- [[curiosity]] is necessary to give your skills a direction
+	- If you believe you alredy know than your skills will be directionless
+	-
+- ### [[relinquishment]]
+	- You should relinquish the emotions which rests upon a mistaken [[belief]]
+	- Try to fully feel the emotion that fits the facts
+	-
+- ### [[lightness]]
+	- Surrender to the [[truth]] as quick as possible
+	- You should not continue to defend a [[belief]] against clear [[evidence]]
+	- Be faithless to your cause and betray it for a stronger one (stronger means with more evidences)
+	-
+- ### [[evenness]]
+	- You should not attend only to favorable [[evidence]]. You should listen evenly to all the opinions
+	- You should be more like a [[judge]] than like an [[advocate]]
+	- Defending your opinion against clear [[evidence]] will prove your [[ignorance]]
+	-
+- ### [[argument]]
+	- In a [[debate]] you should use valid [[argument]]
+	- Debating using [[insults]] or [[fallacy]] will show your [[ignorance]]
+	-
+- ### [[empiricism]]
+	- The roots of [[knowledge]] are in observation and its fruits are predictions
+	- Do not let the topic of the [[debate]] mutate
+	-
+- ### [[simplicity]]
+	- *"Perfection is achieved not when there is nothing left to add, but when there is nothing left to take away"*
+	- Any [[detail]] may be another chance to the [[belief]] to be wrong
+	-
+- ### [[humility]]
+	- Take specific actions in anticipation of your own [[error]]
+	- Do not overestimate your [[skills]], *"The best physicist in ancient Greece could not calculate the path of a falling apple"*
+	- To be human means making and dealing with [[error]]
+	- Do not feel guilty when making [[error]], "Oops is the sound we make when we improve"*
+	- No one achieves [[perfection]]
+	-
+- ### [[perfectionism]]
+	- When you notice an [[error]] in yourself it signals that your readiness to seek [[advancement]] to the next level
+	- If you do not correct [[error]] you will not advance to the next level
+	- If [[perfection]] is impossible that is no excuse for not trying
+	- Do not stop at the answer that seems alright, seek for an answer that is exactly right
+	-
+- ### [[precision]]
+	- The truth should be discovered with precise dance steps
+	- Each step is an [[evidence]]
+	- Each piece of [[evidence]] should shift your [[belief]] exactly the right amount
+	- The right amount is defined by math and probability
+	-
+- ### [[scolarship]]
+	- Study many [[subjects]] and absorb their power as your own
+	- If you consume enough [[subjects]] the gap between one another will decrease and your [[knowledge]] will become a unified whole
+	-
+- ### [[void]]
+	- Do not ask wether it is *The Way* to do this or that, ask wether the *"Sky is blue or green"*

@@ -1,0 +1,4 @@
+- Nell'ambito degli [[Insiemi]] viene usato per indicare la differenza tra $$n$$ insiemi
+- $$A - B = \left\{x : x \in A \land x \notin B\right\}$$
+- Graficamente si presenta in questo modo:
+- ![differenza_insiemi.png](../assets/differenza_insiemi_1696186654603_0.png)

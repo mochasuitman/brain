@@ -1,0 +1,1 @@
+- Knowledge to plant inside this [[digital garden]]

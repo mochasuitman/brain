@@ -1,0 +1,1 @@
+- It is an abbreviation for *Random Access Memory*

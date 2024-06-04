@@ -1,0 +1,2 @@
+- It is a mathematical method used in demonstrations (proofs)
+- It is strictly connected to the concept of [[recursion]] in [[software development]]

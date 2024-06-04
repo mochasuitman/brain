@@ -1,0 +1,2 @@
+- Those are [[zettel]] that list many other zettels for a specific topic
+- This [[hierarchical]] structure makes note navigation easier

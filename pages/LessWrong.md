@@ -1,0 +1,2 @@
+- A blog manged by [[Raemon]], [[RobertM]] and [[Habryka]]
+- The [[AI]] section is seeded by the writings of [[Eliezer Yudkowsky]]

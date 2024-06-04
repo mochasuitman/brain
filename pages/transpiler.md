@@ -1,0 +1,2 @@
+- It is a [[compiler]] that compiles the source code into another human-readable language (like [[assembly]])
+- It is also called *source-to-source compiler* or *transcompiler*

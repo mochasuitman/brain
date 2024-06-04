@@ -1,0 +1,2 @@
+- In programming languages, it is when [[declaration]] and [[assignment]] are combined in the same statement
+- Inside an initialization statement an initial value is assigned to the freshly declared [[identifier]] (variable)

@@ -1,0 +1,1 @@
+- He is a russian philosopher and literary critic
