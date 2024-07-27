@@ -1,0 +1,2 @@
+- Update the actual terminal screen. (e.g. when printw() is called, an imaginary window is modified. In order to update actual terminal screen the refresh() function is needed.)
+- By using refresh() function, developers are able to perform several changes to the imaginary window and update the actual terminal screen once

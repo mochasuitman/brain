@@ -1,0 +1,1 @@
+- Exit curses mode in terminal

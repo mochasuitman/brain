@@ -1,0 +1,2 @@
+- Disables the automatic echoing of typed chars.
+- If noecho() is set, when a char i typed it will not be shown in the terminal

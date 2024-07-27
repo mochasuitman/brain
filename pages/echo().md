@@ -1,0 +1,1 @@
+- Re-enables the echoing of typed chars

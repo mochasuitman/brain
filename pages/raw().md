@@ -1,0 +1,2 @@
+- Used to set the terminal mode to `raw`
+- In `raw` mode, characters are directly read from and written to the terminal without any OS processing

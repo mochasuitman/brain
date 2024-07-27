@@ -1,0 +1,1 @@
+- Initialize curses mode in terminal
