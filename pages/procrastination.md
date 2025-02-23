@@ -1,0 +1,1 @@
+- The action of unnecessarily and voluntarily postponing something despite knowing that there will be negative consequences in both the short and long term

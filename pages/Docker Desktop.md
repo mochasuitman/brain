@@ -1,0 +1,1 @@
+- This software creates a lightweight [[Linux]] [[Virtual Machine]] that runs [[Docker]]

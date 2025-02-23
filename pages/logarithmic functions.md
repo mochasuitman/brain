@@ -1,0 +1,5 @@
+- A function that grow slowly as $$x$$ gets big
+- $$f(x) = \ln(x)$$
+- ![logarithmic_function.png](../assets/logarithmic_function_1699523439560_0.png)
+-
+- When referring to [[software development]], an example of logarithmic function is [[Binary Search]]

@@ -1,0 +1,5 @@
+- A function that increase or decrease just a little faster than [[linear functions]]
+- $$f(x) = x\ln(x)$$
+- ![superlinear_function.png](../assets/superlinear_function_1699525038584_0.png)
+-
+- When referring to [[software development]], an example of superlinear function is [[quicksort]] and [[mergesort]] algorithms

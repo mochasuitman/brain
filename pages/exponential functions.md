@@ -1,0 +1,3 @@
+- A function that increase or decrease depending upon the value of $$c$$
+- $$f(x) = c^x = \begin{cases} \text{grows} & \text{if} \;c > 1 \\ \text{declines} & \text{if} \; 0<c<1 \end{cases}$$
+- ![exponential_function.gif](../assets/exponential_function_1699526397439_0.gif){:height 408, :width 400}

@@ -1,0 +1,1 @@
+- Focusing relentlessy on what value you are offering to the world

@@ -1,0 +1,1 @@
+- An object *goes out of scope* at the end of the scope in which the object was instantiated

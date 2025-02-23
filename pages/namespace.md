@@ -1,0 +1,3 @@
+- In programming languages, namespaces are like "cities" for "addresses"
+- Two addresses may be identical but with different cities, cities help distinguish each address
+- Namespaces are useful to distinguish [[identifier]] one another, identifiers may have identical names but may be defined in different namespaces

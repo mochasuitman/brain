@@ -1,0 +1,4 @@
+- The [[irrational]] part of our brain
+- He only cares about the present, he doesn't care about any short term or long term goal
+- He is addicted to [[dopamine]]
+- He is scared by the [[panic monster]] when a deadline is closer

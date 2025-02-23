@@ -1,0 +1,2 @@
+- Those are practical, approximate methods that provide quick solutions to problems.
+- They do not guarantee optimality. Heuristics may not work on every [[problem]] [[instance]]

@@ -1,0 +1,2 @@
+- It means organizing data in a structure like the ideas in the brain
+- It simply means linking notes with nodes of knowledge

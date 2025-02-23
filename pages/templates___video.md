@@ -1,0 +1,10 @@
+- Video Template
+  template:: Video Template
+  template-including-parent:: false
+	- type:: [[video]] 
+	  title::
+	  creator::
+	  topics::
+	  status::
+	  link::
+	-

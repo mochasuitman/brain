@@ -1,0 +1,2 @@
+- The [[rational]] part of our brain
+- He decides what you should be working on in order to reach both short term and long term goals

@@ -1,0 +1,1 @@
+- It is when 2 or more [[identifier]] in a given [[namespace]] or scope are named with the same sequence of characters

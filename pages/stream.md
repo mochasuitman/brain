@@ -1,0 +1,4 @@
+- Is the opposite of the [[digital garden]] metaphor
+- You don't experience the stream by walking around it and looking it from different perspectives. You jump in and let the flow past
+- [[knowledge]] exists in a context that collapses down to a simple timeline
+- It can be seen has the idea of [[Bakhtin's utterance]]

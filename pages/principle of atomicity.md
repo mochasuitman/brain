@@ -1,0 +1,1 @@
+- The principle that says that each thought should be [[atomic]]

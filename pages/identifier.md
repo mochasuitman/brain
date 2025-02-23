@@ -1,0 +1,1 @@
+- In a programming language, it is the name of a specific entity (variable, function, class, etc...)

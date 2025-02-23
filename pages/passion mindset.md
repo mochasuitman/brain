@@ -1,0 +1,1 @@
+- Focusing only on what the world is offering to you

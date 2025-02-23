@@ -1,0 +1,6 @@
+- It is a synonim of second brain
+- It is a metaphor used to explain the concept of [[linked thinking]]
+- It is a tool used to retain and maintain personal [[knowledge]] in a [[persistent]] way
+- The nodes of knowledge in the garden are not related in a single way and can be viewed under multiple perspectives
+- Every new entry in the garden creates future unpredictable relationships
+- The historical [[chronology]] of each information is irrelevant because relations between elements are timeless

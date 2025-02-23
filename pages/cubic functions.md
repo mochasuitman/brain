@@ -1,0 +1,5 @@
+- A function that grows depending on the cubic value of x
+- $$f(x) = x^3$$
+- ![cubic_function.png](../assets/cubic_function_1699525750924_0.png)
+-
+- When referring to [[software development]], an example is an algorithm with 3 nested loops that print each triple of items

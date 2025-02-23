@@ -1,0 +1,1 @@
+- In programming languages it is the variable defined inside the parenthesis when a function is declared

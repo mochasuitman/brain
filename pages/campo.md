@@ -1,0 +1,29 @@
+- Un campo $$\mathbb{K}$$ è una struttura algebrica composta da ciò che segue
+-
+- ## Due operazioni binarie
+	- ### [[Operazione binaria somma]]
+		- $$+ : A \times A \to A \newline(a, b) \mapsto a + b$$
+		- La sottrazione ad esempio non è una operazione binaria dell'insieme N. Perchè la differenza $$(1 - 2) = -1$$. Ma $$-1 \notin \mathbb{N}$$. Quindi non si applica la definizione sopra scritta
+		-
+	- ### [[Operazione binaria prodotto]]
+		- $$\cdot : A \times A \to A \newline (a, b) \mapsto a \cdot b$$
+	-
+- ## Proprietà
+	- ### [[proprietà commutativa]]
+		- $$a + b = b + a \qquad a, b \in \mathbb{K} \newline a \cdot b = b \cdot a \qquad a, b \in \mathbb{K}$$
+	- ### [[proprietà associativa]]
+		- $$(a + b) + c = a + (b + c) \qquad a, b, c \in \mathbb{K} \newline (a \cdot b) \cdot c = a \cdot (b \cdot c) \qquad a, b, c \in \mathbb{K}$$
+	- ### [[proprietà distributiva]]
+		- $$(a + b) \cdot c = (a \cdot c) + (b \cdot c) \qquad a, b, c \in \mathbb{K} \newline c \cdot (a + b) = (c \cdot a) + (c \cdot b) \qquad a, b, b \in \mathbb{K}$$
+	- ### [[elemento neutro somma]]
+		- Quel numero che sommato a qualsiasi numero $$a \in \mathbb{K}$$ ritorna $$a$$
+		- $$0 + a = a + 0 = a \qquad \forall a \in \mathbb{K}$$
+	- ### [[elemento neutro prodotto]]
+		- Quel numero che moltiplicato a qualsiasi numero $$a \in \mathbb{K}$$ ritorna $$a$$
+		- $$1 \cdot a = a \cdot 1 = a \qquad \forall a \in \mathbb{K}$$
+	- ### [[elemento inverso additivo]]
+		- Quel numero che sommato a qualsiasi numero $$a \in \mathbb{K}$$ ritorna l'elemento neutro della somma
+		- $$a + (-a) = (-a) + a = 0 \qquad \forall a \in \mathbb{K}$$
+	- ### [[elemento inverso moltiplicativo]]
+		- Quel numero che moltiplicato a qualsiasi numero $$a \in \mathbb{K}$$ ritorna l'elemento neutro del prodotto
+		- $$a \cdot a^{-1}= a^{-1} \cdot a = 1 \qquad \forall a \in \mathbb{K}$$

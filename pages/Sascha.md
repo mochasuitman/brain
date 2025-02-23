@@ -1,0 +1,1 @@
+- Owner of the [zettelkasten.de](https://zettelkasten.de/) blog

@@ -1,0 +1,14 @@
+filters:: {"course topic" false}
+type:: [[university course]]
+title:: Algebra Lineare e Geometria
+institute:: [[Politecnico di Milano]]
+teacher:: [[Alessio Savini]] 
+language:: [[🇮🇹 ITA]]
+
+-
+- ## Course Topics
+	- {{query (and (page-property :type "course topic") (page-property :main-course [[Algebra Lineare e Geometria]] ))}}
+	  query-properties:: [:title :main-course :difficulty]
+	  query-sort-by:: difficulty
+	  query-sort-desc:: true
+-
